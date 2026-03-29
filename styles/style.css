@@ -1,0 +1,46 @@
+body {
+    background-color: papayawhip;
+}
+#titulo {
+    text-align: center;
+    color: blue;
+    font-style: italic;
+}
+#subtitulo {
+    text-align: center;
+    color: darkblue;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+#cartaz {
+    height: 400px;
+}
+#img-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+button {
+color: blue;
+border: solid 2px darkgray;
+font-size: 30px;
+border-radius: 12px;
+}
+#button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button:hover{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+font-size: 26px;
+border: solid 2px gray;
+}
+#about {
+    text-align: center;
+    color: red;
+    text-decoration: underline;
+}
