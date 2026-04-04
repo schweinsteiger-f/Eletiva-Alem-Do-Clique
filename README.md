@@ -1,3 +1,3 @@
 # Bem vindo ao projeto...alem do clique!!😄
 ![Cartaz da Eletiva](imgs/Alem-do-clique.png)
-Um site feito para a eletiva alem do clique !!
+## Este e Um site feito por mim *Schweinsteiger Pacheco Dias* para a eletiva alem do clique !!
